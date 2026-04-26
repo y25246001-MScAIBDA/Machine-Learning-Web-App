@@ -1,4 +1,3 @@
-```python id="9t7rga"
 # -*- coding: utf-8 -*-
 """
 Created on Thu Apr  9 16:33:25 2026
